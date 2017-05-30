@@ -1,0 +1,267 @@
+TAnimationTest
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C4697D20000000000000132
+t1279694802
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/AnimationTestViewController.xib
+c000000004C656D0E00000000000062A5
+t1281715470
+s25253
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/AnimationTest_Prefix.pch
+c000000004C6383BC00000000000000C3
+t1281590204
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.h
+c000000004C63E89600000000000002BD
+t1281616022
+s701
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.m
+c000000004C6406CD0000000000000B7B
+t1281623757
+s2939
+i"AnimationTestAppDelegate.h"
+i"AnimationTestViewController.h"
+i"HomeScreen.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.h
+c000000004C656B61000000000000031B
+t1281715041
+s795
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.m
+c000000004C656E8C0000000000001DD6
+t1281715852
+s7638
+i"AnimationTestViewController.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.h
+c000000004C640A1B0000000000000298
+t1281624603
+s664
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.m
+c000000004C6556B600000000000010A0
+t1281709750
+s4256
+i"HomeScreen.h"
+i"Instructions.h"
+i"AnimationTestViewController.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.xib
+c000000004C64067C000000000000619A
+t1281623676
+s24986
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.h
+c000000004C63EC4F000000000000012F
+t1281616975
+s303
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.m
+c000000004C640FC1000000000000083E
+t1281626049
+s2110
+i"Instructions.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.xib
+c000000004C63DAE40000000000004223
+t1281612516
+s16931
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Images/info-icon.png
+c000000004C63F7BC0000000000001171
+t1281619900
+s4465
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Images/red-icon.png
+c000000004C63A9CB0000000000000B92
+t1281599947
+s2962
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Images/transbg.png
+c000000004B94DFD20000000000000CAC
+t1268047826
+s3244
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/MainWindow.xib
+c000000004C63FE0F0000000000006B57
+t1281621519
+s27479
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTestAppDelegate.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTestViewController.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/HomeScreen.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/Instructions.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app.dSYM
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/AnimationTest
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/AnimationTestViewController.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/HomeScreen.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/Info.plist
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/Instructions.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/PkgInfo
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/info-icon.png
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/red-icon.png
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/transbg.png
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/main.m
+c000000004C6383BC0000000000000173
+t1281590204
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dlafnrpqnzbypuawikmetohormxm/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+NAnimationTest-Info.plist
+c000000004C6383BC000000000000038D
+t1281590204
+s909
+
+CCompileC build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTestAppDelegate.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/AnimationTestViewController.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/HomeScreen.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/Instructions.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Release-iphonesimulator/AnimationTest.build/Objects-normal/i386/main.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/AnimationTestViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/MainWindow.xib"
+r0
+
+CCpResource build/Release-iphonesimulator/AnimationTest.app/info-icon.png Images/info-icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/AnimationTest.app/red-icon.png Images/red-icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/AnimationTest.app/transbg.png Images/transbg.png
+r0
+
+CGenerateDSYMFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app.dSYM" "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/AnimationTest"
+r0
+
+CLd "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/AnimationTest" normal i386
+r0
+
+CProcessInfoPlistFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app/Info.plist" AnimationTest-Info.plist
+r0
+
+CProcessPCH /var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dlafnrpqnzbypuawikmetohormxm/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Release-iphonesimulator/AnimationTest.app"
+r0
+

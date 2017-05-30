@@ -1,0 +1,111 @@
+TAnimationTest
+v7
+r1
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib
+c000000004C656D0E00000000000062A5
+t1281715470
+s25253
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib
+c000000004C64067C000000000000619A
+t1281623676
+s24986
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib
+c000000004C63DAE40000000000004223
+t1281612516
+s16931
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/info-icon.png
+c000000004C63F7BC0000000000001171
+t1281619900
+s4465
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/red-icon.png
+c000000004C63A9CB0000000000000B92
+t1281599947
+s2962
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/transbg.png
+c000000004B94DFD20000000000000CAC
+t1268047826
+s3244
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib
+c000000004C63FE0F0000000000006B57
+t1281621519
+s27479
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/AnimationTestViewController.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/HomeScreen.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/Instructions.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/info-icon.png
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/red-icon.png
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Resources/transbg.png
+t2
+s0
+
+NAnimationTest-Info.plist
+c000000004C6383BC000000000000038D
+t1281590204
+s909
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib"
+r0
+
+CCpResource build/Debug/AnimationTest.app/Contents/Resources/info-icon.png Images/info-icon.png
+r0
+
+CCpResource build/Debug/AnimationTest.app/Contents/Resources/red-icon.png Images/red-icon.png
+r0
+
+CCpResource build/Debug/AnimationTest.app/Contents/Resources/transbg.png Images/transbg.png
+r0
+
+CProcessInfoPlistFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app/Contents/Info.plist" AnimationTest-Info.plist
+r0
+
+CTouch "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug/AnimationTest.app"
+r0
+

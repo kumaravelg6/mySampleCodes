@@ -1,0 +1,954 @@
+TAnimationTest
+v7
+r0
+t304076071.848566
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Kumaravel/Test App/AnimationTest/AnimationTestViewController.xib
+c000000004C656D0E00000000000062A5
+t1281715470
+s25253
+
+N/Kumaravel/Test App/AnimationTest/AnimationTest_Prefix.pch
+c000000004C6383BC00000000000000C3
+t1281590204
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Kumaravel/Test App/AnimationTest/Classes/AnimationTestAppDelegate.h
+c000000004C63E89600000000000002BD
+t1281616022
+s701
+i<UIKit/UIKit.h>
+
+N/Kumaravel/Test App/AnimationTest/Classes/AnimationTestAppDelegate.m
+c000000004C6406CD0000000000000B7B
+t1281623757
+s2939
+i"AnimationTestAppDelegate.h"
+i"AnimationTestViewController.h"
+i"HomeScreen.h"
+
+N/Kumaravel/Test App/AnimationTest/Classes/AnimationTestViewController.h
+c000000004C656B61000000000000031B
+t1281715041
+s795
+i<UIKit/UIKit.h>
+
+N/Kumaravel/Test App/AnimationTest/Classes/AnimationTestViewController.m
+c000000004C656E8C0000000000001DD6
+t1281715852
+s7638
+i"AnimationTestViewController.h"
+
+N/Kumaravel/Test App/AnimationTest/Classes/HomeScreen.h
+c000000004C640A1B0000000000000298
+t1281624603
+s664
+i<UIKit/UIKit.h>
+
+N/Kumaravel/Test App/AnimationTest/Classes/HomeScreen.m
+c000000004C6556B600000000000010A0
+t1281709750
+s4256
+i"HomeScreen.h"
+i"Instructions.h"
+i"AnimationTestViewController.h"
+
+N/Kumaravel/Test App/AnimationTest/Classes/HomeScreen.xib
+c000000004C64067C000000000000619A
+t1281623676
+s24986
+
+N/Kumaravel/Test App/AnimationTest/Classes/Instructions.h
+c000000004C63EC4F000000000000012F
+t1281616975
+s303
+i<UIKit/UIKit.h>
+
+N/Kumaravel/Test App/AnimationTest/Classes/Instructions.m
+c000000004C640FC1000000000000083E
+t1281626049
+s2110
+i"Instructions.h"
+
+N/Kumaravel/Test App/AnimationTest/Classes/Instructions.xib
+c000000004C63DAE40000000000004223
+t1281612516
+s16931
+
+N/Kumaravel/Test App/AnimationTest/Images/info-icon.png
+c000000004C63F7BC0000000000001171
+t1281619900
+s4465
+
+N/Kumaravel/Test App/AnimationTest/Images/red-icon.png
+c000000004C63A9CB0000000000000B92
+t1281599947
+s2962
+
+N/Kumaravel/Test App/AnimationTest/Images/transbg.png
+c000000004B94DFD20000000000000CAC
+t1268047826
+s3244
+
+N/Kumaravel/Test App/AnimationTest/MainWindow.xib
+c000000004C63FE0F0000000000006B57
+t1281621519
+s27479
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTest
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestAppDelegate.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestViewController.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/HomeScreen.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/Instructions.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app.dSYM
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTestViewController.nib
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/HomeScreen.nib
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Info.plist
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Instructions.nib
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/MainWindow.nib
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/PkgInfo
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/ResourceRules.plist
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/info-icon.png
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/red-icon.png
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/transbg.png
+t2
+s0
+
+N/Kumaravel/Test App/AnimationTest/main.m
+c000000004C6383BC0000000000000173
+t1281590204
+s371
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib
+c000000004C656D0E00000000000062A5
+t1281715470
+s25253
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTest_Prefix.pch
+c000000004C6383BC00000000000000C3
+t1281590204
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.h
+c000000004C63E89600000000000002BD
+t1281616022
+s701
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m
+c000000004C6406CD0000000000000B7B
+t1281623757
+s2939
+i"AnimationTestAppDelegate.h"
+i"AnimationTestViewController.h"
+i"HomeScreen.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.h
+c000000004C656B61000000000000031B
+t1281715041
+s795
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m
+c000000004C656E8C0000000000001DD6
+t1281715852
+s7638
+i"AnimationTestViewController.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.h
+c000000004C640A1B0000000000000298
+t1281624603
+s664
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m
+c000000004C6556B600000000000010A0
+t1281709750
+s4256
+i"HomeScreen.h"
+i"Instructions.h"
+i"AnimationTestViewController.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib
+c000000004C64067C000000000000619A
+t1281623676
+s24986
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.h
+c000000004C63EC4F000000000000012F
+t1281616975
+s303
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m
+c000000004C640FC1000000000000083E
+t1281626049
+s2110
+i"Instructions.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib
+c000000004C63DAE40000000000004223
+t1281612516
+s16931
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/info-icon.png
+c000000004C63F7BC0000000000001171
+t1281619900
+s4465
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/red-icon.png
+c000000004C63A9CB0000000000000B92
+t1281599947
+s2962
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/transbg.png
+c000000004B94DFD20000000000000CAC
+t1268047826
+s3244
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib
+c000000004C63FE0F0000000000006B57
+t1281621519
+s27479
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app.dSYM
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTestViewController.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/HomeScreen.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Info.plist
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Instructions.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/PkgInfo
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/info-icon.png
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/red-icon.png
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/transbg.png
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m
+c000000004C6383BC0000000000000173
+t1281590204
+s371
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/AnimationTestViewController.xib
+c000000004C656D0E00000000000062A5
+t1281715470
+s25253
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/AnimationTest_Prefix.pch
+c000000004C6383BC00000000000000C3
+t1281590204
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.h
+c000000004C63E89600000000000002BD
+t1281616022
+s701
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.m
+c000000004C6406CD0000000000000B7B
+t1281623757
+s2939
+i"AnimationTestAppDelegate.h"
+i"AnimationTestViewController.h"
+i"HomeScreen.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.h
+c000000004C656B61000000000000031B
+t1281715041
+s795
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.m
+c000000004C656E8C0000000000001DD6
+t1281715852
+s7638
+i"AnimationTestViewController.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.h
+c000000004C640A1B0000000000000298
+t1281624603
+s664
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.m
+c000000004C6556B600000000000010A0
+t1281709750
+s4256
+i"HomeScreen.h"
+i"Instructions.h"
+i"AnimationTestViewController.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.xib
+c000000004C64067C000000000000619A
+t1281623676
+s24986
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.h
+c000000004C63EC4F000000000000012F
+t1281616975
+s303
+i<UIKit/UIKit.h>
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.m
+c000000004C640FC1000000000000083E
+t1281626049
+s2110
+i"Instructions.h"
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.xib
+c000000004C63DAE40000000000004223
+t1281612516
+s16931
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Images/info-icon.png
+c000000004C63F7BC0000000000001171
+t1281619900
+s4465
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Images/red-icon.png
+c000000004C63A9CB0000000000000B92
+t1281599947
+s2962
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Images/transbg.png
+c000000004B94DFD20000000000000CAC
+t1268047826
+s3244
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/MainWindow.xib
+c000000004C63FE0F0000000000006B57
+t1281621519
+s27479
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTest
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestAppDelegate.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestViewController.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/HomeScreen.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/Instructions.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app.dSYM
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTestViewController.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/HomeScreen.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Info.plist
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Instructions.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/PkgInfo
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/info-icon.png
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/red-icon.png
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/transbg.png
+t2
+s0
+
+N/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/main.m
+c000000004C6383BC0000000000000173
+t1281590204
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dpcezhgraydbhxgjwlalrvrwhouk/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-etqjoiucsxwqxbepxoedbkomcuvy/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-eifymvpsmxknfbclvtyticzpvfyv/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-eyplofgtcrkubmaztbpqyokmbmlp/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-fluzeouihsaptldhxnvlezquqvqr/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-ghjafurwblxyebguppgqcugiheuy/AnimationTest_Prefix.pch.gch
+t2
+s0
+
+NAnimationTest-Info.plist
+c000000004C6383BC000000000000038D
+t1281590204
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321273279#321273279#0(243"[BEROR]Code Sign error: The identity 'iPhone Distribution' doesn't match any valid certificate/private key pair in the default keychain[BWARN]warning: 'The Validate Built Product build setting was not enabled when building for Distribution.'2(4@128"Code Sign error: The identity 'iPhone Distribution' doesn't match any valid certificate/private key pair in the default keychain321273279#18446744073709551615#0#0(1@0"0(22@99"warning: 'The Validate Built Product build setting was not enabled when building for Distribution.'321273279#18446744073709551615#0#0(1@0"0(0#1#0"8634602208#0"0#
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o "/Kumaravel/Test App/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o "/Kumaravel/Test App/AnimationTest/Classes/AnimationTestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o "/Kumaravel/Test App/AnimationTest/Classes/HomeScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o "/Kumaravel/Test App/AnimationTest/Classes/Instructions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o "/Kumaravel/Test App/AnimationTest/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestAppDelegate.o "/Kumaravel/Test App/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestAppDelegate.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestViewController.o "/Kumaravel/Test App/AnimationTest/Classes/AnimationTestViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTestViewController.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/AnimationTestViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/HomeScreen.o "/Kumaravel/Test App/AnimationTest/Classes/HomeScreen.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/HomeScreen.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/Instructions.o "/Kumaravel/Test App/AnimationTest/Classes/Instructions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/Instructions.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/main.o "/Kumaravel/Test App/AnimationTest/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/main.o "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Kumaravel/Test App/AnimationTest/AnimationTestViewController.xib"
+r0
+
+CCompileXIB "/Kumaravel/Test App/AnimationTest/Classes/HomeScreen.xib"
+r0
+
+CCompileXIB "/Kumaravel/Test App/AnimationTest/Classes/Instructions.xib"
+r0
+
+CCompileXIB "/Kumaravel/Test App/AnimationTest/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib"
+r0
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/AnimationTestViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/HomeScreen.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/Classes/Instructions.xib"
+r0
+
+CCompileXIB "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/info-icon.png" Images/info-icon.png
+r0
+
+CCopyPNGFile "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/red-icon.png" Images/red-icon.png
+r0
+
+CCopyPNGFile "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/transbg.png" Images/transbg.png
+r0
+
+CCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/info-icon.png" Images/info-icon.png
+r0
+
+CCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/red-icon.png" Images/red-icon.png
+r0
+
+CCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/transbg.png" Images/transbg.png
+r0
+
+CCopyPNGFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/info-icon.png" Images/info-icon.png
+r0
+
+CCopyPNGFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/red-icon.png" Images/red-icon.png
+r0
+
+CCopyPNGFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/transbg.png" Images/transbg.png
+r0
+
+CCpResource build/Debug-iphoneos/AnimationTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/AnimationTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/AnimationTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest" normal "armv6 armv7"
+r0
+
+CCreateUniversalBinary "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app.dSYM" "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest"
+r0
+
+CGenerateDSYMFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app.dSYM" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest"
+r0
+
+CGenerateDSYMFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app.dSYM" "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest"
+r0
+
+CLd "/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest" normal armv6
+r0
+
+CLd "/Kumaravel/Test App/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTest" normal armv7
+r0
+
+CLd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/AnimationTest" normal armv6
+r0
+
+CLd "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest" normal armv6
+r0
+
+CLd "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/AnimationTest.build/Debug-iphoneos/AnimationTest.build/Objects-normal/armv7/AnimationTest" normal armv7
+r0
+
+CProcessInfoPlistFile "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Info.plist" AnimationTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Info.plist" AnimationTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app/Info.plist" AnimationTest-Info.plist
+r0
+
+CProcessPCH /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dpcezhgraydbhxgjwlalrvrwhouk/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-etqjoiucsxwqxbepxoedbkomcuvy/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-eifymvpsmxknfbclvtyticzpvfyv/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-eyplofgtcrkubmaztbpqyokmbmlp/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-fluzeouihsaptldhxnvlezquqvqr/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/R+/R+oOUVXnFMOKOqNaXToboU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-ghjafurwblxyebguppgqcugiheuy/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Kumaravel/Test App/AnimationTest/build/Debug-iphoneos/AnimationTest.app"
+r0
+
+CTouch "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Debug-iphoneos/AnimationTest.app"
+r0
+
+CTouch "/Volumes/Mac share folder/Kumaravel Sources/AnimationTest/build/Debug-iphoneos/AnimationTest.app"
+r0
+

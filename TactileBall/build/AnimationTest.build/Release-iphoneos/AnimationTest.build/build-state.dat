@@ -1,0 +1,505 @@
+TAnimationTest
+v7
+r0
+t304076264.991930
+cCheck dependencies
+cCpResource build/Release-iphoneos/AnimationTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Info.plist" AnimationTest-Info.plist
+cCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib"
+cCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib"
+cCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/red-icon.png" Images/red-icon.png
+cCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib"
+cCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib"
+cCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/info-icon.png" Images/info-icon.png
+cCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/transbg.png" Images/transbg.png
+cProcessPCH /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest" normal armv6
+cGenerateDSYMFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app.dSYM" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest"
+cProcessProductPackaging "/Users/galaxyweblinks/Library/MobileDevice/Provisioning Profiles/E4B0C585-29AB-4F20-9DA9-7FDED2002D10.mobileprovision" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision"
+cTouch "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent"
+cCodeSign "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"
+cValidate "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/galaxyweblinks/Library/MobileDevice/Provisioning Profiles/E4B0C585-29AB-4F20-9DA9-7FDED2002D10.mobileprovision
+c000000004C47E90E0000000000001DDB
+t1279781134
+s7643
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib
+c000000004C656D0E00000000000062A5
+t1281715470
+s25253
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTest_Prefix.pch
+c000000004C6383BC00000000000000C3
+t1281590204
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.h
+c000000004C63E89600000000000002BD
+t1281616022
+s701
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m
+c000000004C6406CD0000000000000B7B
+t1281623757
+s2939
+i"AnimationTestAppDelegate.h"
+i"AnimationTestViewController.h"
+i"HomeScreen.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.h
+c000000004C656B61000000000000031B
+t1281715041
+s795
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m
+c000000004C656E8C0000000000001DD6
+t1281715852
+s7638
+i"AnimationTestViewController.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.h
+c000000004C640A1B0000000000000298
+t1281624603
+s664
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m
+c000000004C6556B600000000000010A0
+t1281709750
+s4256
+i"HomeScreen.h"
+i"Instructions.h"
+i"AnimationTestViewController.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib
+c000000004C64067C000000000000619A
+t1281623676
+s24986
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.h
+c000000004C63EC4F000000000000012F
+t1281616975
+s303
+i<UIKit/UIKit.h>
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m
+c000000004C640FC1000000000000083E
+t1281626049
+s2110
+i"Instructions.h"
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib
+c000000004C63DAE40000000000004223
+t1281612516
+s16931
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/info-icon.png
+c000000004C63F7BC0000000000001171
+t1281619900
+s4465
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/red-icon.png
+c000000004C63A9CB0000000000000B92
+t1281599947
+s2962
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/transbg.png
+c000000004B94DFD20000000000000CAC
+t1268047826
+s3244
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib
+c000000004C63FE0F0000000000006B57
+t1281621519
+s27479
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent
+t1282383342
+s326
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest.LinkFileList
+c000000004C6F9DEB0000000000000340
+t1282383339
+s832
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o
+t1282383341
+s41876
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o
+t1282383341
+s48968
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o
+t1282383341
+s42220
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o
+t1282383341
+s33976
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o
+t1282383341
+s6496
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app
+t1282383344
+s500
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app.dSYM
+t1282383464
+s264
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest
+t1282383344
+s42288
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTestViewController.nib
+t1282383339
+s3378
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/HomeScreen.nib
+t1282383340
+s3428
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Info.plist
+t1282383339
+s711
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Instructions.nib
+t1282383340
+s1691
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/MainWindow.nib
+t1282383339
+s2107
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/PkgInfo
+t1282383339
+s8
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/ResourceRules.plist
+t1282383339
+s485
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision
+t1282383342
+s7643
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/info-icon.png
+t1282383340
+s4478
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/red-icon.png
+t1282383340
+s2853
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/transbg.png
+t1282383340
+s3246
+
+N/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m
+c000000004C6383BC0000000000000173
+t1281590204
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch.gch
+t1282383341
+s8204472
+
+NAnimationTest-Info.plist
+c000000004C6383BC000000000000038D
+t1281590204
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304076264#304076264#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"
+s304076142.217545
+e304076144.515233
+r1
+xCodeSign
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app
+lSLF07#2@49"CodeSign build/Release-iphoneos/AnimationTest.app304076142#304076144#0(0"0(0#0#104"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app4300911832#811"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Varun Bihani (83A9L94Y35)" "--resource-rules=/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/ResourceRules.plist" --entitlements "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"0#
+
+CCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304076141.419653
+e304076141.570213
+r1
+xCompileC
+xbuild/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m304076141#304076141#0(0"0(0#0#98"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m4300911832#2252"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-generated-files.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-own-target-headers.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-all-target-headers.hmap" -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-project-headers.hmap" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/include" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources/armv6" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestAppDelegate.m" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestAppDelegate.o"0#
+
+CCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304076141.507905
+e304076141.850263
+r1
+xCompileC
+xbuild/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m:301: warning: incomplete implementation of class 'AnimationTestViewController'
+o/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m:301: warning: method definition for '-wiggle' not found
+lSLF07#2@109"Compile /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m304076141#304076141#0(339"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m:301: warning: incomplete implementation of class 'AnimationTestViewController'/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m:301: warning: method definition for '-wiggle' not found2(22@64"Incomplete implementation of class 'AnimationTestViewController'304076141#0#181#0(6@101"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m303408652#301#0#301#0#38"incomplete implementation of class '*'0(22@41"Method definition for '-wiggle' not found304076141#181#158#0(6@101"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m303408652#301#0#301#0#35"method definition for '*' not found0(0#0#101"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m4300911832#2258"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-generated-files.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-own-target-headers.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-all-target-headers.hmap" -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-project-headers.hmap" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/include" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources/armv6" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/AnimationTestViewController.m" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTestViewController.o"0#
+
+CCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304076141.736875
+e304076141.939793
+r1
+xCompileC
+xbuild/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m304076141#304076141#0(0"0(0#0#84"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m4300911832#2224"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-generated-files.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-own-target-headers.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-all-target-headers.hmap" -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-project-headers.hmap" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/include" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources/armv6" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.m" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/HomeScreen.o"0#
+
+CCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304076141.570335
+e304076141.736764
+r1
+xCompileC
+xbuild/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m304076141#304076141#0(0"0(0#0#86"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m4300911832#2228"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-generated-files.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-own-target-headers.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-all-target-headers.hmap" -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-project-headers.hmap" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/include" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources/armv6" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.m" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/Instructions.o"0#
+
+CCompileC build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304076141.417322
+e304076141.507787
+r1
+xCompileC
+xbuild/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m304076141#304076141#0(0"0(0#0#70"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m4300911832#2204"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-generated-files.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-own-target-headers.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-all-target-headers.hmap" -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-project-headers.hmap" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/include" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources/armv6" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/main.m" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib"
+s304076139.375974
+e304076140.027327
+r1
+xCompileXIB
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib
+lSLF07#2@42"CompileXIB AnimationTestViewController.xib304076139#304076140#0(0"0(0#0#95"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib4300911832#591"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTestViewController.nib" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTestViewController.xib"0#
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib"
+s304076140.371379
+e304076140.771290
+r1
+xCompileXIB
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib
+lSLF07#2@33"CompileXIB Classes/HomeScreen.xib304076140#304076140#0(0"0(0#0#86"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib4300911832#565"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/HomeScreen.nib" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/HomeScreen.xib"0#
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib"
+s304076140.027443
+e304076140.372301
+r1
+xCompileXIB
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib
+lSLF07#2@35"CompileXIB Classes/Instructions.xib304076140#304076140#0(0"0(0#0#88"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib4300911832#569"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Instructions.nib" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Classes/Instructions.xib"0#
+
+CCompileXIB "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib"
+s304076139.375213
+e304076139.980400
+r1
+xCompileXIB
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304076139#304076139#0(0"0(0#0#78"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib4300911832#557"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/MainWindow.nib" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/MainWindow.xib"0#
+
+CCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/info-icon.png" Images/info-icon.png
+s304076140.372382
+e304076140.485998
+r1
+xCopyPNGFile
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/info-icon.png
+xImages/info-icon.png
+lSLF07#2@87"CopyPNGFile build/Release-iphoneos/AnimationTest.app/info-icon.png Images/info-icon.png304076140#304076140#0(0"0(0#0#84"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/info-icon.png4300911832#662"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/info-icon.png" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/info-icon.png"0#
+
+CCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/red-icon.png" Images/red-icon.png
+s304076139.980509
+e304076140.371275
+r1
+xCopyPNGFile
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/red-icon.png
+xImages/red-icon.png
+lSLF07#2@85"CopyPNGFile build/Release-iphoneos/AnimationTest.app/red-icon.png Images/red-icon.png304076139#304076140#0(0"0(0#0#83"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/red-icon.png4300911832#660"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/red-icon.png" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/red-icon.png"0#
+
+CCopyPNGFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/transbg.png" Images/transbg.png
+s304076140.486102
+e304076140.563619
+r1
+xCopyPNGFile
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/transbg.png
+xImages/transbg.png
+lSLF07#2@83"CopyPNGFile build/Release-iphoneos/AnimationTest.app/transbg.png Images/transbg.png304076140#304076140#0(0"0(0#0#82"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/transbg.png4300911832#658"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/Images/transbg.png" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/transbg.png"0#
+
+CCpResource build/Release-iphoneos/AnimationTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s304076139.314824
+e304076139.375101
+r1
+xCpResource
+xbuild/Release-iphoneos/AnimationTest.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist304076139#304076139#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300911832#565"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"0#
+
+CGenerateDSYMFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app.dSYM" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest"
+s304076264.494397
+e304076264.617709
+r1
+xGenerateDSYMFile
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app.dSYM
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest
+lSLF07#2@117"GenerateDSYMFile build/Release-iphoneos/AnimationTest.app.dSYM build/Release-iphoneos/AnimationTest.app/AnimationTest304076264#304076264#0(0"0(0#0#118"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest4300911832#465"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app.dSYM"0#
+
+CLd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest" normal armv6
+s304076141.939902
+e304076142.039065
+r1
+xLd
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest
+xnormal
+xarmv6
+lSLF07#2@123"Link /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest304076141#304076142#0(0"0(0#0#0"4300911832#1001"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk "-L/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" -filelist "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/Objects-normal/armv6/AnimationTest.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest"0#
+
+CProcessInfoPlistFile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Info.plist" AnimationTest-Info.plist
+s304076139.322200
+e304076139.366790
+r1
+xProcessInfoPlistFile
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Info.plist
+xAnimationTest-Info.plist
+lSLF07#2@32"Process AnimationTest-Info.plist304076139#304076139#0(0"0(0#0#88"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTest-Info.plist4300911832#700"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AnimationTest-Info.plist -genpkginfo "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/ResourceRules.plist" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/Info.plist"0#
+
+CProcessPCH /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch.gch AnimationTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304076140.771425
+e304076141.417113
+r1
+xProcessPCH
+x/var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch.gch
+xAnimationTest_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile AnimationTest_Prefix.pch304076140#304076141#0(0"0(0#0#88"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTest_Prefix.pch4300911832#2067"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-generated-files.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-own-target-headers.hmap" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-all-target-headers.hmap" -iquote "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest-project-headers.hmap" "-F/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/include" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources/armv6" "-I/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/AnimationTest_Prefix.pch" -o /var/folders/H9/H9v943S3FLCVazLPQXK5AU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AnimationTest_Prefix-dotfpvqdtoyomnfzmjlbojwjadbk/AnimationTest_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/galaxyweblinks/Library/MobileDevice/Provisioning Profiles/E4B0C585-29AB-4F20-9DA9-7FDED2002D10.mobileprovision" "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision"
+s304076142.141202
+e304076142.173078
+r1
+xProcessProductPackaging
+x/Users/galaxyweblinks/Library/MobileDevice/Provisioning Profiles/E4B0C585-29AB-4F20-9DA9-7FDED2002D10.mobileprovision
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision
+lSLF07#2@209"ProcessProductPackaging "/Users/galaxyweblinks/Library/MobileDevice/Provisioning Profiles/E4B0C585-29AB-4F20-9DA9-7FDED2002D10.mobileprovision" build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision304076142#304076142#0(0"0(0#0#129"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision4300911832#494"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/galaxyweblinks/Library/MobileDevice/Provisioning Profiles/E4B0C585-29AB-4F20-9DA9-7FDED2002D10.mobileprovision" -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent"
+s304076142.176605
+e304076142.217448
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent
+lSLF07#2@197"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent304076142#304076142#0(0"0(0#0#146"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent4300911832#508"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/AnimationTest.build/Release-iphoneos/AnimationTest.build/AnimationTest.xcent"0#
+
+CTouch "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"
+s304076142.173165
+e304076142.176497
+r1
+xTouch
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app
+lSLF07#2@110"Touch /Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app304076142#304076142#0(0"0(0#0#0"4300911832#326"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"0#
+
+CValidate "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"
+s304076264.618134
+e304076264.991880
+r1
+xValidate
+x/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  Your MinimumOSVersion is below 3.2, so you must define CFBundleIconFile or provide a default Icon.png that is 57x57. (-19013)
+oUnable to validate your application. - (null)
+o
+owarning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)
+oExecutable=/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTest
+ocodesign_wrapper-0.7.5: using Apple CA for profile evaluation
+o/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app: valid on disk
+o/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app: satisfies its Designated Requirement
+otest-requirement: failed to satisfy code requirement(s)
+ocodesign_wrapper-0.7.5: failed to execute codesign(1)
+o - (null)
+o
+lSLF07#2@49"Validate build/Release-iphoneos/AnimationTest.app304076264#304076264#0(986"warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  Your MinimumOSVersion is below 3.2, so you must define CFBundleIconFile or provide a default Icon.png that is 57x57. (-19013)Unable to validate your application. - (null)warning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)Executable=/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app/AnimationTestcodesign_wrapper-0.7.5: using Apple CA for profile evaluation/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app: valid on disk/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app: satisfies its Designated Requirementtest-requirement: failed to satisfy code requirement(s)codesign_wrapper-0.7.5: failed to execute codesign(1) - (null)2(22@207" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  Your MinimumOSVersion is below 3.2, so you must define CFBundleIconFile or provide a default Icon.png that is 57x57. (-19013)304076264#18446744073709551615#0#0(6@0"304076264#0#0#0#0#0"0(22@138" Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)304076264#18446744073709551615#0#0(6@0"304076264#0#0#0#0#0"0(0#0#104"/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app4300911832#435"    cd "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Volumes/Edward Donawat's Public Folder/kumaravel/AnimationTest/build/Release-iphoneos/AnimationTest.app"0#
+
